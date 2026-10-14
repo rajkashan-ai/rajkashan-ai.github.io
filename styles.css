@@ -44,6 +44,15 @@ body {
 }
 
 /* Intro */
+.photo {
+  display: block;
+  width: 88px;
+  height: 88px;
+  margin-bottom: 24px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
 h1 {
   margin: 0 0 12px;
   font-size: 1.75rem;
