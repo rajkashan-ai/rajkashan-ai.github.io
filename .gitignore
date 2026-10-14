@@ -1,0 +1,7 @@
+# Private project notes — keep off the public repo
+CLAUDE.md
+MEMORY.md
+.claude/
+
+# macOS
+.DS_Store
